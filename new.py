@@ -122,4 +122,4 @@ elif option == 'Analysis':
 
 elif option == 'Exit':
     st.write('Exiting the application.')
-    st.page_link("https://datavizsumtool.netlify.app/", label="LogOut", icon="🏠")
+    st.page_link("https://datavizsumtool.netlify.app/", label="Open New Window", icon="🏠")
